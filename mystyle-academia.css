@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.container-principal{
+    background-color: #F2F1EC;
+}
+
+nav.container-menu{
+    background-color: #E8572A;
+    padding: 1vw 2vh;
+    font-family: 'Barlow Condensed', Impact, sans-serif;
+    font-weight: 700;
+    color: white;
+}
